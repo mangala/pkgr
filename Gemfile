@@ -38,4 +38,4 @@ gem 'jquery-rails'
 # To use debugger
 # gem 'debugger'
 gem 'pkgr'
-gem 'thin'
+# gem 'thin'
